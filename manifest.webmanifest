@@ -1,6 +1,6 @@
 {
-  "name": "WS Activity",
-  "short_name": "WS Activity",
+  "name": "WS Activities",
+  "short_name": "WS Activities",
   "description": "Western Springs Stake youth activity ideas",
   "start_url": "./",
   "display": "standalone",
